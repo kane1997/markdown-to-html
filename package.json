@@ -6,9 +6,15 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.2.6",
+    "gatsby": "^5.5.0",
+    "gatsby-plugin-anchor-links": "^1.2.1",
+    "marked": "^4.2.12",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-markdown": "^8.0.5",
     "react-scripts": "5.0.1",
+    "smoothscroll-polyfill": "^0.4.4",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

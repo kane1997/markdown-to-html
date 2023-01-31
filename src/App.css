@@ -28,6 +28,21 @@
   color: #61dafb;
 }
 
+.markdown-display {
+  display: flex;
+}
+
+.toc {
+  width: 20%;
+  padding: 20px;
+  background-color: lightgray;
+}
+
+.markdown-content {
+  width: 80%;
+  padding: 20px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
